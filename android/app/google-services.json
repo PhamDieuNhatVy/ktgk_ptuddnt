@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125240130822",
+    "project_id": "fir-ktgk",
+    "storage_bucket": "fir-ktgk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125240130822:android:04cf7fa888c5c841ba3287",
+        "android_client_info": {
+          "package_name": "com.demooo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDWTG2esiMPKO1zb9b7rn4hek19ySZEHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
